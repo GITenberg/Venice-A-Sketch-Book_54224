@@ -1,0 +1,23 @@
+_repo: Venice-A-Sketch-Book_54224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richards, Fred
+    alias: Richards, Frederick Charles
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '9073'
+    url: http://www.gutenberg.org/2009/agents/9073
+description: ''
+gutenberg_issued: '2017-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Venice; A Sketch-Book
+url: http://www.gutenberg.org/ebooks/54224
